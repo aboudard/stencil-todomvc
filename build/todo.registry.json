@@ -1,0 +1,40 @@
+{
+  "namespace": "todo",
+  "components": [
+    [
+      "TODO-APP",
+      "gxcnxcpj",
+      0,
+      0,
+      [
+        [
+          "clearCompleted",
+          "clearCompleted"
+        ],
+        [
+          "todoDeleted",
+          "todoDeleted"
+        ],
+        [
+          "todoToggled",
+          "todoToggled"
+        ]
+      ]
+    ],
+    [
+      "TODO-FOOTER",
+      "gxcnxcpj"
+    ],
+    [
+      "TODO-ITEM",
+      "gxcnxcpj"
+    ],
+    [
+      "TODO-LIST",
+      "gxcnxcpj"
+    ]
+  ],
+  "loader": "todo.js",
+  "core": "todo/todo.ohmodccw.js",
+  "corePolyfilled": "todo/todo.kaggiafb.pf.js"
+}
